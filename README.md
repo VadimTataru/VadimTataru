@@ -1,5 +1,8 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+profile!+👋)](https://git.io/typing-svg)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vadimtataru&layout=compact)](https://github.com/VadimTataru/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vadimtataru&show_icons=true&theme=radical)](https://github.com/VadimTataru/github-readme-stats)
 <!--
 **VadimTataru/VadimTataru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
